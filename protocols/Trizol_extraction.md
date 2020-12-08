@@ -39,16 +39,16 @@ reagent.
 
 ### *Prepare Trizol, Isopropanol, and Chloroform (Fume Hood)*
 
-1. In a fume hood, pour 0.8mL of Trizol per sample into a 15 or 50 mL conical tube. Use the markings on the side of the  tube to judge the amount of RNABee ± ~200 μL.
-2. (OPTIONAL) Add 10 μL β-mercaptoethanol (14.3 M) per 1 mL Trizol to the RNA-Bee working solution.
+1. In a fume hood, pour 0.8mL of Trizol per sample into a 15 or 50 mL conical tube. Use the markings on the side of the  tube to judge the amount of Trizol ± ~200 μL.
+2. (OPTIONAL) Add 10 μL β-mercaptoethanol (14.3 M) per 1 mL Trizol to the Trizol working solution.
 3. Place the Trizol solution on ice.
 4. Aliquot 0.5 mL isopropanol per sample into a 15 or 50 mL conical tube. Put this on ice.
 5. Place chloroform on ice (I use small 25mL glass containers of chloroform)
 
-## 2. Cell Lysis and RNA-Bee Extraction
+## 2. Cell Lysis and Trizol/Chloroform Extraction
 
 1. Add sample to the bead beating tube. 
-2. Add 0.8 mL RNA bee to the bead-beating tube containing the sample. 
+2. Add 0.8 mL Trizol to the bead-beating tube containing the sample. 
 3. Place tubes in the MagnaLyzer and bead-beat ( for 3 x 30 seconds, intensity=7000) Place tubes on ice between each run.
 4. In the fume hood, add 160 μL chloroform / 0.8 mL Trizol (200 uL chloroform/ 1 mL Trizol) to each tube.
 5. Shake the tube for ~ 45 seconds. Incubate on ice for 5 min.
