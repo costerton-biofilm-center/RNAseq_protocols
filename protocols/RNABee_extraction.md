@@ -1,10 +1,10 @@
 ---
-title: RNA Bee Extraction - General 
+title: Trizol RNA Extraction - General 
 author: Blaine Fritz
 version: 1.0
 date: 18 March 2020
 ---
-## RNA Extraction with RNA-Bee
+## RNA Extraction with Trizol
 
 This document describes the general extraction of RNA using Trizol and Chloroform to extract and purify RNA. 
 This protocol has been adopted from:
@@ -45,7 +45,7 @@ and
 ---
 ## 1. Prepare Extraction Materials
 
-### *Prepare RNA-Bee, Isopropanol, and Chloroform (Fume Hood)*
+### *Prepare Trizol, Isopropanol, and Chloroform (Fume Hood)*
 
 1. In a fume hood, pour 1mL of Trizol per sample into a 15 or 50 mL conical tube. Use the markings on the side of the  tube to judge the amount of Trizol ± ~200 μL.
 2. Add 10 μL β-mercaptoethanol (14.3 M) per 1 mL Trizol to the Trizol working solution.
@@ -60,7 +60,7 @@ and
     - DO NOT label the top, as it will rub off. 
     - For *in vitro* bacteria culture: No need to add large beads.
 ---
-## 2. Cell Lysis and RNA-Bee Extraction
+## 2. Cell Lysis and Trizol Extraction
 
 1. Add sample to the bead beating tube. 
 2. Add 1mL RNA bee to the bead-beating tube containing the sample. 
@@ -70,7 +70,7 @@ and
 6. Centrifuge for 30 min @ 13,000g in centrifuge pre-cooled to +4°C.
 7. Carefully remove the tubes...Do not disrupt the pase-seperation!
 8. In the fume hood, use a 1mL pipette and transfer the upper, aqueous layer to a clean 1.5mL tube. Leave ~100 μL of the aq layer to avoid phenol contamination.
-9. Add 0.5mL isopropanol per 1mL RNA Bee used to the aq phase.
+9. Add 0.5mL isopropanol per 1mL Trizol used to the aq phase.
 10. Add 2uL linear acrylamide. Invert the tube several times to mix. 
 11. Precipitate the tubes at -20°C for 1-2 hours. ALternatively, preciptate overnight at -80°C. 
 
