@@ -1,8 +1,8 @@
 ---
 title: Trizol RNA Extraction - General 
 author: Blaine Fritz
-version: 1.0
-date: 08 December 2020
+version: 1.1
+date: 07 Febuary 2022
 ---
 ## RNA Extraction with Trizol
 
@@ -27,6 +27,7 @@ reagent.
 ---
 ### *Notes before you begin*:
 ```
+- Turn on centrifuge and precool to +4°C
 - Clean entire lab space(bench, pipettes, bottles, etc.) 
   with RNAse Zap. 
 - If working in the open, work under a flame to prevent 
@@ -37,6 +38,15 @@ reagent.
 - Prepare all reagents and label all tubes before you begin!
 ```
 ## 1. Prepare Extraction Materials
+
+### Prepare Lysis Tubes
+1. Add large beads (2 mm) to the bead-beating tubes until ~1/4 full.
+2. Add small beads (0.1 mm) to fill the spaces between the big beads.
+3. Tap tube on table to get small beads to mix with the large beads. 
+NOTE: 
+    - Label tubes on the side, not the top
+    - Do NOT label the top, as it will rub off
+    - For *in vitro* bacteria culture, no need for large beads
 
 ### Prepare Trizol, Isopropanol, and Chloroform (Fume Hood)
 
@@ -50,7 +60,7 @@ reagent.
 
 1. Add sample to the bead beating tube. 
 2. Add 0.8 mL Trizol to the bead-beating tube containing the sample. 
-3. Place tubes in the MagnaLyzer and bead-beat ( for 3 x 30 seconds, intensity=7000) Place tubes on ice between each run.
+3. Place tubes in the MagnaLyzer and bead-beat ( for 3 x 30 seconds, intensity=7000). Place tubes on ice between each run.
 4. In the fume hood, add 160 μL chloroform / 0.8 mL Trizol (200 uL chloroform/ 1 mL Trizol) to each tube.
 5. Shake the tube for ~ 45 seconds. Incubate on ice for 5 min.
 6. Centrifuge for 15 min @ 13,000g in a pre-cooled centrifuge.
@@ -58,7 +68,7 @@ reagent.
 8. In the fume hood, use a 1mL pipette and transfer the upper, aqueous layer to a clean 1.5mL tube. Leave 50-100 μL of the aq layer to avoid phenol contamination.
 9. Add 0.4 mL 2-propanol used to the aq phase (0.5 mL isop per 1mL Trizol used in extraction).
 10. Add 2uL linear acrylamide. Invert the tube several times to mix. 
-11. Incubate these tubes at -20 °C for 30 min - 1hr. 
+11. Incubate these tubes at -20 °C for 30 min - 2hr. 
 
 ## 3. Cleanup
 
