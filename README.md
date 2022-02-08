@@ -7,6 +7,6 @@ sample storage and RNA extraction from a variety of tissues and sample materials
 
 [Guidelines for Sample Collection and Storage for RNA-analysis](protocols/sample_storage.md)
 
-## RNA-purification (RNABee Method)
+## RNA-purification (Trizol Method)
 
-[RNA Extraction and Purification - General](protocols/RNABee_extraction.md)
+[RNA Extraction and Purification - Trizol](protocols/Trizol_extraction.md)
