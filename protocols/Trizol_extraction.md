@@ -2,7 +2,7 @@
 title: Trizol RNA Extraction - General 
 author: Blaine Fritz
 version: 1.1
-date: 07 Febuary 2022
+date: 08 Febuary 2022
 ---
 ## RNA Extraction with Trizol
 
@@ -74,8 +74,8 @@ NOTE:
 
 1. Spin down the samples for 30 min @ 13,000g in a pre-cooled centrifuge.
 2. Discard the supernatant.The RNA should form a clear/white-ish pellet. (May not be visible)
-3. Add 1mL 75-80% ice-cold ethanol. Dislodge pellet by vortexing or by "rubbing" the tube on a microcentrifuge tube rack
+3. Add 900 uL 75-80% ice-cold ethanol. Dislodge pellet by vortexing or by "rubbing" the tube on a microcentrifuge tube rack
 4. Centrifuge again and repeat wash step. 
 5. After final wash, air dry the pellet for ~10 mins. Less time for small pellet. Don't let the pellet dry out.
-6. Resuspend the pellet in 20-100uL nuclease free water.
-7. Measure concentration and store at -80C 
+6. Resuspend the pellet in 10-75 uL nuclease free water, depending on pellet size.
+7. Measure concentration and store at -80C.
